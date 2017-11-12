@@ -21,9 +21,7 @@
                         ",module,Magento_Paypal
 "
                             The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.
-                        ","
-                            Das Bild in der oberen linken Ecke der Checkout-Seite. Maximale Größe 750x90 Pixel. <strong style=""color:red"">https</strong> ausdrücklich gewünscht.
-                        ",module,Magento_Paypal
+                        ","asfd
 "
                             Will appear as a payment option only for customers who have at least one active billing agreement.
                         ","
